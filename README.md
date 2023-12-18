@@ -12,7 +12,7 @@ FutureFURNITURES is a simple e-commerce website showcasing a collection of furni
 - **HTML**
 - **CSS (referenced external stylesheet)**
 - **JavaScript (referenced external script**
-- 
+  
 ## File Structure
 - **index.html**: Main HTML file containing the structure of the website.
 - **ecommerce.css**: CSS file for styling the HTML elements.
